@@ -105,7 +105,7 @@ function enviarFormulario(e) {
 
   // Criar mensagem para WhatsApp
   const textoWhatsApp = `Olá! Meu nome é ${nome}.%0A%0AE-mail: ${email}%0ATelefone: ${telefone}%0A%0AMensagem: ${mensagem}`;
-  const numeroWhatsApp = "5511987654321"; // Substitua pelo número real
+  const numeroWhatsApp = "5571988327708"; // Substitua pelo número real
 
   // Abrir WhatsApp
   window.open(
